@@ -1,0 +1,6 @@
+{
+  "name": "Mail Quite",
+  "description": "Send, receive, and stay connected with Mail Quite - featuring full email inbox, chat, video meetings, and workspace tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
